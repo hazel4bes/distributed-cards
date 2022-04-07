@@ -26,15 +26,16 @@ ol {
   display: flex;
   width: 50%;
   padding: .5em;
+  background-color: #ede3db;
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 8px;
 }
 
 ol li {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  background-color: #ede3db;
-  border-width: 2px;
-  border-radius: 8px;
 }
 
 ol li h2 {
