@@ -25,16 +25,17 @@ ol {
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 1fr 1fr;
+  grid-gap: 1rem;
 }
 
 ol li {
-  padding: 1rem;
   background-color: #ede3db;
   border-style: solid;
   border-color: #623b0c;
   border-width: 2px;
   border-radius: 8px;
   display: flex;
+  padding: 1rem;
   flex-direction: column;
   justify-content: space-between;
 }
