@@ -29,7 +29,7 @@ ol {
 }
 
 ol li {
-  align-content: start;
+  align-items: start;
   background-color: #ede3db;
   border-style: solid;
   border-color: #623b0c;
