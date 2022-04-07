@@ -1,8 +1,7 @@
 html {
   box-sizing: border-box;
   line-height: 1.5;
-  font-family: georgia, serif;
-
+  font-family: "Denk One", sans-serif;
 }
 
 *, *::before, *::after {
@@ -12,11 +11,10 @@ html {
 body {
   background-color: #f5f2f0;
   color: #000;
-  margin: 1.5rem;
+  margin: auto;
 }
 
 h1 {
-  font-family: "Denk One", sans-serif;
   color: #623b0c;
   padding-top: .75em;
   padding-bottom: 1rem;
@@ -25,6 +23,7 @@ h1 {
 ol {
   display: grid;
   grid-template-columns: 1fr 1fr;
+  grid-gap: 1rem;
 }
 
 ol li {
@@ -40,10 +39,10 @@ ol li {
 }
 
 ol li h2 {
-  font-family: 'Denk One', sans-serif;
   color: #623b0c;
 }
 
 ol li p {
   flex-grow: 1;
+  font-family: georgia, serif;
 }
