@@ -12,14 +12,14 @@ body {
   background-color: #f5f2f0;
   color: #000;
   margin: 0;
-  padding: .75em;
+  padding: .77em;
 }
 
 h1 {
   color: #623b0c;
   font-family: "Denk One", sans-serif;
   padding: 0;
-  margin-top: auto;
+  margin-top: 0;
   margin-bottom: 1.6rem;
 }
 
