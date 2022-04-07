@@ -47,7 +47,7 @@ ol li h2 {
 }
 
 ol li img {
-  width: auto;
+  width: inherit;
 }
 
 ol li p {
