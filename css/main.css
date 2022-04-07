@@ -53,6 +53,8 @@ img {
 p {
   flex-grow: 1;
   font-family: georgia, serif;
+  padding-top: .5rem;
+  padding-bottom: .5rem;
 }
 
 a {
