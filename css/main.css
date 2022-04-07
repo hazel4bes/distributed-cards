@@ -2,7 +2,6 @@ html {
   box-sizing: border-box;
   line-height: 1.5;
   font-family: georgia;
-  margin: 0;
 }
 
 *, *::before, *::after {
@@ -26,10 +25,10 @@ ol {
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 1fr 1fr;
-  grid-gap: 1rem;
 }
 
 ol li {
+  padding: 1rem;
   background-color: #ede3db;
   border-style: solid;
   border-color: #623b0c;
