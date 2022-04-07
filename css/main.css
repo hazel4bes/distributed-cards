@@ -19,7 +19,7 @@ h1 {
   color: #623b0c;
   font-family: "Denk One", sans-serif;
   padding: 0;
-  margin-top: .1rem;
+  margin-top: 0;
   margin-bottom: 1.6rem;
 }
 
@@ -46,7 +46,7 @@ li {
 h2 {
   color: #623b0c;
   font-family: "Denk One", sans-serif;
-  margin-top: .1em;
+  margin-top: .1rem;
 }
 
 img {
