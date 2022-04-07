@@ -16,7 +16,7 @@ body {
 
 h1 {
   color: #623b0c;
-  padding: .08rem;
+  padding: .07rem;
   margin-left: 1.5rem;
   font-family: "Denk One", sans-serif;
 }
@@ -43,7 +43,6 @@ ol li {
 ol li h2 {
   color: #623b0c;
   font-family: "Denk One", sans-serif;
-  padding: .5em;
 }
 
 img {
