@@ -24,11 +24,11 @@ ol {
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 1fr 1fr;
-  grid-gap: 1rem;
+  gap: 1rem;
   padding-left: .9em;
 }
 
-ol li {
+li {
   background-color: #ede3db;
   border-style: solid;
   border-color: #623b0c;
@@ -43,18 +43,19 @@ ol li {
 h2 {
   color: #623b0c;
   font-family: "Denk One", sans-serif;
+  margin-top: .2em;
 }
 
 img {
   width: 100%;
 }
 
-ol li p {
+p {
   flex-grow: 1;
   font-family: georgia, serif;
 }
 
-ol li a {
+a {
   background-color: #623b0c;
   color: #fff;
   text-decoration: none;
