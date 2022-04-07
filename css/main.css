@@ -38,7 +38,7 @@ li {
   border-width: 2px;
   border-radius: 8px;
   display: flex;
-  padding: 1.1rem;
+  padding: 1rem;
   flex-direction: column;
   justify-content: space-between;
 }
@@ -68,4 +68,8 @@ a {
   border-width: 2px;
   border-radius: 8px;
   margin-top: auto;
+}
+
+a:hover {
+  color: orange;
 }
