@@ -30,7 +30,7 @@ ol {
 }
 
 ol li {
-  padding: .6em;
+  padding: 1rem;
   background-color: #ede3db;
   border-style: solid;
   border-color: #623b0c;
@@ -60,6 +60,7 @@ ol li a {
   color: #fff;
   text-decoration: none;
   font-family: georgia, serif;
+  font-weight: normal;
   padding: .6em;
   border-color: #623b0c;
   border-width: 2px;
