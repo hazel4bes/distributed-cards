@@ -16,23 +16,24 @@ body {
 }
 
 h1 {
-  font-family: 'Denk One', sans-serif;
+  font-family: "Denk One", sans-serif;
   color: #623b0c;
   padding-top: .75em;
   padding-bottom: 1rem;
 }
 
 ol {
-  display: flex;
-  width: 50%;
-  padding: .5em;
-  background-color: #ede3db;
-  border-style: solid;
-  border-width: 2px;
-  border-radius: 8px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
 }
 
 ol li {
+  padding: .5em;
+  background-color: #ede3db;
+  border-style: solid;
+  border-color: #623b0c;
+  border-width: 2px;
+  border-radius: 8px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
