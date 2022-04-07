@@ -26,11 +26,10 @@ ol {
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 1fr 1fr;
-  gap: 1rem;
+  grid-gap: 1rem;
 }
 
 ol li {
-  padding: 1rem;
   background-color: #ede3db;
   border-style: solid;
   border-color: #623b0c;
