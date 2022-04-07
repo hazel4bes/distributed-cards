@@ -47,11 +47,11 @@ h2 {
   color: #623b0c;
   font-family: "Denk One", sans-serif;
   margin-top: .1em;
+  padding-bottom: .5em
 }
 
 img {
   width: 100%;
-  display: block;
   padding-bottom: .5em;
 }
 
