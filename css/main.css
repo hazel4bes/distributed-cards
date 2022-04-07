@@ -11,12 +11,13 @@ html {
 body {
   background-color: #f5f2f0;
   color: #000;
+  margin: 0;
 }
 
 h1 {
   color: #623b0c;
   padding: .03em;
-  margin-left: 6em;
+  margin-left: 1.5em;
   font-family: "Denk One", sans-serif;
 }
 
