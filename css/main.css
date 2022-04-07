@@ -25,6 +25,7 @@ h1 {
 
 ol {
   display: grid;
+  list-style: none;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 1fr 1fr;
   gap: 1rem;
