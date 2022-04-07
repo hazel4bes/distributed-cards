@@ -2,6 +2,7 @@ html {
   box-sizing: border-box;
   line-height: 1.5;
   font-family: Georgia, serif;
+  font-weight: normal;
 }
 
 *, *::before, *::after {
