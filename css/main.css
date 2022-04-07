@@ -26,10 +26,10 @@ ol {
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 1fr 1fr;
   grid-gap: 1rem;
+  align-items: start;
 }
 
 ol li {
-  align-items: start;
   background-color: #ede3db;
   border-style: solid;
   border-color: #623b0c;
