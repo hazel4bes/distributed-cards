@@ -1,7 +1,7 @@
 html {
   box-sizing: border-box;
   line-height: 1.5;
-  font-family: "Denk One", sans-serif;
+  font-family: "Denk One";
 }
 
 *, *::before, *::after {
@@ -18,6 +18,7 @@ h1 {
   color: #623b0c;
   padding-top: .75em;
   padding-bottom: 1rem;
+  margin-left: 1.5rem;
 }
 
 ol {
@@ -27,7 +28,7 @@ ol {
 }
 
 ol li {
-  padding: .5em;
+  padding: .75em;
   background-color: #ede3db;
   border-style: solid;
   border-color: #623b0c;
@@ -42,10 +43,6 @@ ol li h2 {
   color: #623b0c;
 }
 
-ol li img {
-  width: 50%;
-}
-
 ol li p {
   flex-grow: 1;
   font-family: georgia, serif;
@@ -55,6 +52,8 @@ ol li a {
   background-color: #623b0c;
   color: #fff;
   text-decoration: none;
+  font-family: georgia, serif;
+  padding: .6em;
   border-color: #623b0c;
   border-width: 2px;
   border-radius: 8px;
