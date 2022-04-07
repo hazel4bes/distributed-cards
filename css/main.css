@@ -38,7 +38,7 @@ li {
   border-width: 2px;
   border-radius: 8px;
   display: flex;
-  padding: 1rem;
+  padding: .75rem;
   flex-direction: column;
   justify-content: space-between;
 }
