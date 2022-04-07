@@ -11,7 +11,8 @@ html {
 body {
   background-color: #f5f2f0;
   color: #000;
-  margin: 0em;
+  margin: 0;
+  padding: 0;
 }
 
 h1 {
