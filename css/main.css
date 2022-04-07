@@ -29,6 +29,7 @@ ol {
 }
 
 ol li {
+  align-content: start;
   background-color: #ede3db;
   border-style: solid;
   border-color: #623b0c;
