@@ -12,6 +12,7 @@ body {
   background-color: #f5f2f0;
   color: #000;
   margin: 0;
+  padding: .75em;
 }
 
 h1 {
@@ -53,8 +54,6 @@ img {
 p {
   flex-grow: 1;
   font-family: georgia, serif;
-  padding-top: .5rem;
-  padding-bottom: .5rem;
 }
 
 a {
