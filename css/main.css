@@ -17,7 +17,6 @@ body {
 
 h1 {
   color: #623b0c;
-  margin-left: .6em;
   font-family: "Denk One", sans-serif;
 }
 
@@ -26,7 +25,7 @@ ol {
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 1fr 1fr;
   gap: 1rem;
-  padding-left: .9em;
+  padding-left: 0;
 }
 
 li {
